@@ -21,9 +21,6 @@ To get a local copy of the project up and running, follow these simple steps:
 ### Installation
 
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/weather-app.git
-   ```
 
 2. Navigate into the project directory:
    ```sh
