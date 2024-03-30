@@ -65,14 +65,3 @@ Contributions are welcome! If you'd like to contribute to this project by integr
 6. Push to the branch (`git push origin feature/weather-api`)
 7. Create a new Pull Request
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For any inquiries or support, feel free to contact [your-email@example.com](mailto:your-email@example.com).
-
----
-
-This README clarifies that while the UI and basic functionality are implemented, the app lacks real-time weather data, and contributors are encouraged to integrate a weather API to complete the functionality. Adjustments can be made based on your preferences and specific project goals.
